@@ -1,0 +1,23 @@
+{
+  "address": {
+    "city": "Istanbul",
+    "country": "Turkiye"
+  },
+  "age": 22,
+  "family": [
+    {
+      "age": 18,
+      "role": "Kardes"
+    },
+    {
+      "age": 46,
+      "role": "Anne"
+    },
+    {
+      "age": 46,
+      "role": "Baba"
+    }
+  ],
+  "first_name": "Oguzhan",
+  "mail": "oguzhanoksel@gmail.com"
+}
